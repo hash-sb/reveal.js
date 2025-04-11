@@ -28,3 +28,11 @@ Want to create reveal.js presentation in a graphical editor? Try <https://slides
 <div align="center">
   MIT licensed | Copyright © 2011-2024 Hakim El Hattab, https://hakim.se
 </div>
+
+---
+
+How to edit online and publish using GitHub Pages?
+
+- `Setting` -> `Pages` -> under `Build and deployment`: `Branch`, choose `master` and `/ (root)` from the dropdown menus -> wait for the site to be deployed and the URL appears (this is the URL for the presentaiton)
+- Edit index.html page by clicking the pencil button and commit changes -> wait for the changes to be deployed
+- `Code` tab -> Gear icon next to About -> check `Use your GitHub Pages website`
